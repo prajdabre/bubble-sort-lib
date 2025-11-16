@@ -1,0 +1,5 @@
+{
+  "name": "Bubble Sort Library",
+  "description": "An interactive web application that visualizes the bubble sort algorithm in real-time. Users can generate random arrays, control the sorting speed, and see the code execution highlighted step-by-step.",
+  "requestFramePermissions": []
+}
